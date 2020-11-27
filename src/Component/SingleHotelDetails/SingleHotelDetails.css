@@ -1,0 +1,40 @@
+.singleHotelDetails{
+    display:flex;
+    margin-bottom: 25px
+}
+.room-image{
+    width: 100%;
+    height: 242px;
+}
+.room-star-price{
+    display:flex;
+}
+svg.room-star-icon {
+    margin-top: 3px;
+}
+p.room-star {
+    margin-left: 5px;
+    font-weight: 700;
+}
+p.room-price {
+    margin-left: 36px;
+    font-weight: 700;
+}
+h4.room-title {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+p.room-details {
+    line-height: 25px;
+    margin-top: 8px;
+}
+p.room-cancellation {
+    margin-top: -8px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+
+
+
+

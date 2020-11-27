@@ -1,0 +1,15 @@
+.singleLocation.col {
+    height: 291px;
+    margin: 7px;
+    width: 195px;
+    color: white;
+    cursor: pointer;
+    border: 2px solid;
+}
+.singleLocation.col h4 {
+    position: absolute;
+    bottom: 7px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    
+}

@@ -1,0 +1,65 @@
+.forgotPassword{
+    float: right;
+    margin-top: 10px;
+}
+.login-form {
+    border: 1px solid black;
+    padding: 19px 33px;
+    margin: 32px 0;
+}
+form.login-form input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+.form-bottom-error {
+    color: red;
+    margin-top: -31px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.form-bottom-success{
+    color: rgb(14, 201, 98);
+    font-weight: bold;
+    font-size: 20px;
+}
+span.loginTogler {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+input[type="submit"] {
+    margin-top: 15px;
+}
+.login-btn-google-fb {
+    background-color: white;
+    color: #0b8389;
+    border-radius: 50px;
+    border: 1px solid #7e7e77;
+    margin: 4px;
+    width: 423px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.login-between p {
+    display: inline;
+    background: white;
+    position: absolute;
+    width: 50px;
+    margin-left: -25px;}
+.login-between {
+    border-bottom: 1px solid;
+    margin: 0;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 29px;
+    padding: 13px;
+
+}
+svg.button-icon {
+    float: left;
+    font-size: 24px;
+}

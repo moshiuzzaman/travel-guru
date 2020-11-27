@@ -1,0 +1,8 @@
+.map-marker{
+    color: red;
+    font-size: 31px;
+}
+.map-section.col-md-6 {
+    padding: 32px 20px;
+    border-radius: 200px;
+}
